@@ -881,7 +881,7 @@ button:focus-visible, a:focus-visible, .slider-handle:focus-visible {
     height: 56px;
     width: 56px;
     flex: 0 0 56px;
-    background: transparent url(/assets/pause-Do32RHnQ.svg) center/cover no-repeat
+    background: transparent url(/47/assets/pause-Do32RHnQ.svg) center/cover no-repeat
 }
 
 .player--scheme-audio-fixed .controls__button--pause {
@@ -1218,15 +1218,15 @@ button:focus-visible, a:focus-visible, .slider-handle:focus-visible {
 }
 
 .player-settings__button--options {
-    background: transparent url(/assets/options-white-DO5EabyK.svg) center/cover no-repeat
+    background: transparent url(/47/assets/options-white-DO5EabyK.svg) center/cover no-repeat
 }
 
 .player-settings__button--options:hover {
-    background: #fff url(/assets/options-black-B2RrHCKm.svg) center/cover no-repeat
+    background: #fff url(/47/assets/options-black-B2RrHCKm.svg) center/cover no-repeat
 }
 
 .player-settings__button--active.player-settings__button--options {
-    background: #fff url(/assets/options-black-B2RrHCKm.svg) center/cover no-repeat
+    background: #fff url(/47/assets/options-black-B2RrHCKm.svg) center/cover no-repeat
 }
 
 .player-settings__button--active.player-settings__button--share {
@@ -1319,11 +1319,11 @@ button:focus-visible, a:focus-visible, .slider-handle:focus-visible {
 }
 
 .player-settings__button--options {
-    background: transparent url(assets/options-white-DO5EabyK.svg) center/cover no-repeat
+    background: transparent url(/47/assets/options-white-DO5EabyK.svg) center/cover no-repeat
 }
 
 .player-settings__button--options:hover {
-    background: #fff url(assets/options-black-B2RrHCKm.svg) center/cover no-repeat
+    background: #fff url(/47/assets/options-black-B2RrHCKm.svg) center/cover no-repeat
 }
 
 .player-settings__button--hidden {
@@ -1331,7 +1331,7 @@ button:focus-visible, a:focus-visible, .slider-handle:focus-visible {
 }
 
 .player-settings__button--active.player-settings__button--options {
-    background: #fff url(assets/options-black-B2RrHCKm.svg) center/cover no-repeat
+    background: #fff url(/47/assets/options-black-B2RrHCKm.svg) center/cover no-repeat
 }
 
 .player-settings__button--active.player-settings__button--share {
@@ -1423,19 +1423,19 @@ button:focus-visible, a:focus-visible, .slider-handle:focus-visible {
 }
 
 .player-sharing__link--vkontakte {
-    background: transparent url(assets/images/icons/social/vkontakte-white.svg) center/cover no-repeat
+    background: transparent url(/47/assets/images/icons/social/vkontakte-white.svg) center/cover no-repeat
 }
 
 .player-sharing__link--vkontakte:hover {
-    background: transparent url(assets/images/icons/social/vkontakte-color.svg) center/cover no-repeat
+    background: transparent url(/47/assets/images/icons/social/vkontakte-color.svg) center/cover no-repeat
 }
 
 .player-sharing__link--odnoklassniki {
-    background: transparent url(assets/images/icons/social/odnoklassniki-white.svg) center/cover no-repeat
+    background: transparent url(/47/assets/images/icons/social/odnoklassniki-white.svg) center/cover no-repeat
 }
 
 .player-sharing__link--odnoklassniki:hover {
-    background: transparent url(assets/images/icons/social/odnoklassniki-color.svg) center/cover no-repeat
+    background: transparent url(/47/assets/images/icons/social/odnoklassniki-color.svg) center/cover no-repeat
 }
 
 .player-sharing__button {
